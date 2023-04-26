@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @TMJOJO
+- 👀 I’m interested in Discord modding
+- 🌱 I’m currently learning Js/python
+- 💞️ I’m looking to collaborate on discord modding
+- 📫 How to reach me #issues
+- 🥶 keep up the grind
